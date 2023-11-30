@@ -1,0 +1,7 @@
+C:\Users\Данил\source\repos\Hobbies\bin\Debug\Hobbies.exe.config
+C:\Users\Данил\source\repos\Hobbies\bin\Debug\Hobbies.exe
+C:\Users\Данил\source\repos\Hobbies\bin\Debug\Hobbies.pdb
+C:\Users\Данил\source\repos\Hobbies\obj\Debug\Hobbies.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Hobbies\obj\Debug\Hobbies.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Hobbies\obj\Debug\Hobbies.exe
+C:\Users\Данил\source\repos\Hobbies\obj\Debug\Hobbies.pdb

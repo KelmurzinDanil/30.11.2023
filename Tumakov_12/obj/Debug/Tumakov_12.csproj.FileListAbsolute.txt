@@ -1,0 +1,7 @@
+C:\Users\Данил\source\repos\Tumakov_12\bin\Debug\Tumakov_12.exe.config
+C:\Users\Данил\source\repos\Tumakov_12\bin\Debug\Tumakov_12.exe
+C:\Users\Данил\source\repos\Tumakov_12\bin\Debug\Tumakov_12.pdb
+C:\Users\Данил\source\repos\Tumakov_12\obj\Debug\Tumakov_12.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Tumakov_12\obj\Debug\Tumakov_12.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Tumakov_12\obj\Debug\Tumakov_12.exe
+C:\Users\Данил\source\repos\Tumakov_12\obj\Debug\Tumakov_12.pdb
